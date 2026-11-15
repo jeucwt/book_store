@@ -1,11 +1,10 @@
 import mongoose from 'mongoose';
 
-const nhanVienSchema = new mongoose.Schema({
-    HoTenNV: { type: String, required: true },
-    Password: { type: String, required: true },   // lưu bản hash
-    ChucVu: { type: String },
-    DiaChi: { type: String },
-    SoDienThoai: { type: String }
-});
-
-export default mongoose.model('NhanVien', nhanVienSchema);
+export default mongoose.model('NhanVien', new mongoose.Schema({
+  MSNV:        { type: String, required: true, unique: true },
+  HoTenNV:     { type: String, required: true },
+  Password:    { type: String, required: true },  // đã băm bằng bcrypt
+  ChucVu:      { type: String, enum: ['admin', 'nhanvien'], default: 'nhanvien' },
+  DiaChi:      String,
+  SoDienThoai: String
+}));

@@ -1,0 +1,13 @@
+{
+  "TenSach": "Lão Hạc",
+  "TacGia": "Nam Cao",
+  "NamXuatBan": 1943,
+  "TheLoai": "Truyện ngắn",
+  "AnhBia": "",
+  "TomTat": "Câu chuyện về lão nông nghèo và con chó Vàng.",
+  "NXB": { "TenNXB": "Wikisource", "DiaChi": "vi.wikisource.org" },
+  "chuong": [
+    { "SoChuong": 1, "TieuDe": "Phần 1", "NoiDung": "..." },
+    { "SoChuong": 2, "TieuDe": "Phần 2", "NoiDung": "..." }
+  ]
+}
