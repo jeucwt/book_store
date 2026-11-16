@@ -5,6 +5,8 @@ import cors from 'cors';
 import connectDB from './config/db.js';
 
 import authRoutes from './routes/authRoutes.js';
+import sachRoutes from './routes/sachRoutes.js';
+import goiThueRoutes from './routes/goiThueRoutes.js';
 
 const app = express();
 connectDB();
@@ -13,6 +15,8 @@ app.use(cors());
 app.use(express.json());
 
 app.use('/api/auth', authRoutes);
+app.use('/api/sach', sachRoutes);
+app.use('/api/goi-thue', goiThueRoutes);
 
 app.get('/', (req, res) => res.send('API đang chạy'));
 
