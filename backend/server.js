@@ -5,8 +5,11 @@ import cors from 'cors';
 import connectDB from './config/db.js';
 
 import authRoutes from './routes/authRoutes.js';
+
 import sachRoutes from './routes/sachRoutes.js';
 import goiThueRoutes from './routes/goiThueRoutes.js';
+import thueRoutes from './routes/thueRoutes.js';
+import docRoutes from './routes/docRoutes.js';
 
 const app = express();
 connectDB();
@@ -17,6 +20,8 @@ app.use(express.json());
 app.use('/api/auth', authRoutes);
 app.use('/api/sach', sachRoutes);
 app.use('/api/goi-thue', goiThueRoutes);
+app.use('/api/thue', thueRoutes);
+app.use('/api/doc', docRoutes);
 
 app.get('/', (req, res) => res.send('API đang chạy'));
 
