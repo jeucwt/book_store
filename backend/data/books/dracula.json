@@ -1,0 +1,31 @@
+{
+  "TenSach": "Dracula",
+  "TacGia": "Bram Stoker",
+  "NamXuatBan": 1897,
+  "TheLoai": "Kinh dị",
+  "AnhBia": "",
+  "TomTat": "Tác phẩm kinh điển khai sinh huyền thoại ma cà rồng Bá tước Dracula và cuộc săn đuổi rùng rợn của nhóm Van Helsing.",
+  "DonGia": 40000,
+  "SoQuyen": 8,
+  "NXB": {
+    "TenNXB": "NXB Trẻ",
+    "DiaChi": "TP.HCM"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Lâu đài quỷ ám ở Transylvania",
+      "NoiDung": "Chàng luật sư trẻ Jonathan Harker thực hiện chuyến công tác đến vùng núi xa xôi Transylvania để hoàn tất thủ tục mua bất động sản tại Luân Đôn cho Bá tước Dracula. Ngay từ khi bước vào lâu đài âm u cổ kính, Harker rùng mình trước vẻ mặt tái nhợt lạnh lẽo và đôi mắt đỏ ngầu của vị bá tước. Chàng kinh hoàng nhận ra mình đã bị giam cầm trong hang ổ của loài ma cà rồng hút máu quỷ quyệt."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Bóng ma giáng xuống nước Anh",
+      "NoiDung": "Dracula bí mật lên con tàu buôn Demeter cập cảng Whitby nước Anh giữa một đêm giông bão kinh hoàng, toàn bộ thủy thủ đoàn đều chết mất tích một cách bí ẩn. Tại Luân Đôn, cô gái trẻ Lucy Westenra bắt đầu mộng du và ngày một xanh xao gầy mòn với hai vết cắn kỳ lạ trên cổ. Dù đã được giáo sư Van Helsing dùng tỏi và thánh giá bảo vệ hết lòng, Lucy vẫn không qua khỏi và biến thành ma cà rồng gieo rắc kinh hoàng."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Cuộc thanh trừng quyết tử",
+      "NoiDung": "Nhận ra hiểm họa đe dọa toàn nhân loại, Van Helsing cùng Jonathan, Mina và những người bạn dũng cảm thành lập đội săn ma cà rồng. Họ lần theo các cỗ quan tài chứa đất mẹ mà Dracula cất giấu để phong ấn bằng bánh thánh. Trong trận truy kích cuối cùng trên sườn núi tuyết Transylvania, họ kịp thời phá nắp quan tài đâm xuyên tim Dracula trước lúc hoàng hôn buông xuống, chấm dứt cơn ác mộng kinh hoàng."
+    }
+  ]
+}

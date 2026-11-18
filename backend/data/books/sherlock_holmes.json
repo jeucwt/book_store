@@ -1,0 +1,31 @@
+{
+  "TenSach": "Những cuộc phiêu lưu của Sherlock Holmes",
+  "TacGia": "Arthur Conan Doyle",
+  "NamXuatBan": 1892,
+  "TheLoai": "Trinh thám",
+  "AnhBia": "",
+  "TomTat": "Tập hợp những vụ án ly kỳ, hấp dẫn nhất được giải mã bằng phương pháp suy luận logic tuyệt đỉnh của thám tử Holmes.",
+  "DonGia": 42000,
+  "SoQuyen": 14,
+  "NXB": {
+    "TenNXB": "NXB Trẻ",
+    "DiaChi": "TP.HCM"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Vụ tai tiếng ở xứ Bohemia",
+      "NoiDung": "Tại căn phòng quen thuộc số 221B phố Baker, thám tử lừng danh Sherlock Holmes đón tiếp vị khách quý là Quốc vương xứ Bohemia giả trang. Quốc vương tha thiết nhờ Holmes thu hồi bức ảnh chụp chung bí mật với nữ ca sĩ opera kiều diễm Irene Adler nhằm tránh bê bối ngoại giao. Bằng óc quan sát sắc bén và những màn cải trang mưu mẹo, Holmes suýt chút nữa đoạt lại bức ảnh, nhưng cuối cùng đành ngả mũ thán phục trí thông minh kiệt xuất của người phụ nữ duy nhất qua mặt được ông."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Hội tóc đỏ kỳ quặc",
+      "NoiDung": "Một chủ tiệm cầm đồ tóc đỏ tên Jabez Wilson tìm đến nhờ Holmes giải thích về một công việc kỳ quặc: chép cuốn Bách khoa toàn thư chỉ vì ông ta có mái tóc đỏ rực. Trong khi mọi người xem đây là trò đùa vô hại, Holmes lập tức nhận ra âm mưu đào hầm tinh vi từ tầng hầm tiệm cầm đồ sang kho vàng của ngân hàng bên cạnh. Cùng với bác sĩ Watson và cảnh sát Scotland Yard, Holmes mai phục bắt quả tang tên cướp táo tợn John Clay ngay trong đêm."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Bí ẩn dải băng đốm",
+      "NoiDung": "Tiểu thư Helen Stoner tìm đến cầu cứu Holmes trong tâm trạng hoảng loạn tột cùng về cái chết bí ẩn của người chị gái trước ngày cưới. Qua việc kiểm tra kỹ lưỡng căn phòng với lỗ thông hơi bất thường và sợi dây chuông giả nối xuống giường ngủ, Holmes đã vạch trần tội ác rùng rợn của người cha dượng độc ác: dùng một con rắn độc đầm lầy để sát hại các con gái nhằm chiếm đoạt tài sản thừa kế."
+    }
+  ]
+}

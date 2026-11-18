@@ -1,0 +1,31 @@
+{
+  "TenSach": "Truyện Kiều",
+  "TacGia": "Nguyễn Du",
+  "NamXuatBan": 1820,
+  "TheLoai": "Truyện thơ",
+  "AnhBia": "",
+  "TomTat": "Kiệt tác văn học trung đại về cuộc đời trầm luân mười lăm năm của nàng Thúy Kiều tài sắc vẹn toàn.",
+  "DonGia": 35000,
+  "SoQuyen": 12,
+  "NXB": {
+    "TenNXB": "NXB Văn Học",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Chị em Thúy Kiều và tiết Thanh Minh",
+      "NoiDung": "Trăm năm trong cõi người ta, chữ tài chữ mệnh khéo là ghét nhau. Trải qua một cuộc bể dâu, những điều trông thấy mà đau đớn lòng. Đầu lòng hai ả tố nga, Thúy Kiều là chị, em là Thúy Vân. Mai cốt cách tuyết tinh thần, mỗi người một vẻ mười phân vẹn mười. Vân xem trang trọng khác vời, khuôn trăng đầy đặn nét ngài nở nang. Hoa cười ngọc thốt đoan trang, mây thua nước tóc tuyết nhường màu da. Kiều càng sắc sảo mặn mà, so bề tài sắc lại là phần hơn. Làn thu thủy nét xuân sơn, hoa ghen thua thắm liễu hờn kém xanh. Một hai nghiêng nước nghiêng thành, sắc đành đòi một tài đành họa hai. Thông minh vốn sẵn tính trời, pha nghề thi họa đủ mùi ca ngâm. Cung thương lầu bậc ngũ âm, nghề riêng ăn đứt hồ cầm một trương."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Gặp gỡ Kim Trọng và ước hẹn trăm năm",
+      "NoiDung": "Thanh minh trong tiết tháng ba, lễ là tảo mộ hội là đạp thanh. Gần xa nô nức yến anh, chị em sắm sửa bộ hành chơi xuân. Bóng tà như giục cơn sầu, khách đà lãng đãng người hầu dặm khang. Nửa chừng ghé bước cỏ xanh, sè sè nấm đất bên đường rêu phong. Hỏi ra mới biết Đạm Tiên, một đời tài sắc thác oan bên cầu. Kiều thương người bạc mệnh, thắp nén hương mà rơi lệ ngắn dài. Vừa khi ấy có chàng Kim Trọng xuất hiện, phong tư tài mạo tuyệt vời, vào vườn giáp ranh tương tư gặp gỡ nàng. Đôi bên trao kỷ vật, nguyện ước sắc cầm bền chặt trăm năm."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Gia biến và bước ngoặt bán mình chuộc cha",
+      "NoiDung": "Ngờ đâu sóng gió bất ngờ ập xuống gia đình họ Vương. Sai nha kéo đến ầm ầm, vu oan giá họa, cha và em trai bị bắt giam khảo đả tàn nhẫn. Đứng trước cảnh ngộ tan cửa nát nhà, Kiều nuốt nước mắt quyết định hi sinh hạnh phúc riêng để làm tròn chữ hiếu. Nàng nhờ cậy em Thúy Vân thay mình trả nghĩa chàng Kim, rồi chấp nhận bán mình cho Mã Giám Sinh. Một bước sa chân vào chốn hồng trần, Kiều bắt đầu mười lăm năm lưu lạc đầy đau thương tủi nhục giữa cõi trần ai."
+    }
+  ]
+}

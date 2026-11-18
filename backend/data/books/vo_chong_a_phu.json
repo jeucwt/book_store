@@ -1,0 +1,31 @@
+{
+  "TenSach": "Vợ chồng A Phủ",
+  "TacGia": "Tô Hoài",
+  "NamXuatBan": 1952,
+  "TheLoai": "Truyện ngắn",
+  "AnhBia": "",
+  "TomTat": "Con đường thức tỉnh và giải phóng của đôi lứa người Mèo vùng cao Tây Bắc dưới ách cường quyền thống lý Pá Tra.",
+  "DonGia": 27000,
+  "SoQuyen": 11,
+  "NXB": {
+    "TenNXB": "NXB Kim Đồng",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Kiếp dâu trừ nợ nhà thống lý",
+      "NoiDung": "Ai ở xa về thường thấy một cô gái ngồi quay sợi gai bên tảng đá trước cửa nhà thống lý Pá Tra, lúc nào mặt cũng cúi buồn rười rượi. Đó là Mị, con dâu gạt nợ nhà giàu. Bố Mị ngày xưa vay bạc của thống lý không trả được, Mị đành cam chịu làm dâu gạt nợ cho A Sử. Ở lâu trong cái khổ, Mị quen khổ rồi. Mị sống lầm lũi như con rùa nuôi trong xó cửa, không còn nhớ đến ước mơ thời thiếu nữ từng thổi lá hay như thổi sáo."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Đêm tình mùa xuân và sức sống tiềm tàng",
+      "NoiDung": "Mùa xuân trên Hồng Ngài năm ấy tràn ngập sắc màu váy hoa sặc sỡ và tiếng sáo gọi bạn tình dặt dìu khắp triền đồi. Nghe tiếng sáo, tâm hồn Mị bỗng rạo rực hồi sinh. Mị uống rượu ừng ực từng bát, Mị thấy mình còn trẻ và muốn đi chơi xuân như bao bạn bè cùng lứa. Dù bị A Sử bắt trói đứng vào cột nhà bằng cả thúng sợi đay, Mị vẫn thả hồn theo tiếng sáo réo rắt bay ra khắp đỉnh núi, chứng minh sức sống mãnh liệt không gì dập tắt nổi."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Đêm đông cởi trói tìm tự do",
+      "NoiDung": "A Phủ vì để hổ ăn thịt mất một con bò của nhà thống lý nên bị trói đứng vào cột ngoài hiên chờ chết. Những đêm đông giá lạnh, Mị ngồi thổi lửa sưởi ấm, liếc mắt nhìn thấy một dòng nước mắt lấp lánh bò xuống hai hõm má xám đen của A Phủ. Lòng trắc ẩn và sự đồng cảm giai cấp thức tỉnh trong Mị. Mị liều mình cầm dao cắt nút dây mây cởi trói cho A Phủ, rồi hốt hoảng chạy theo chàng băng qua bóng đêm rừng thẳm trốn tới Phiềng Sa, bước vào cuộc đời tự do."
+    }
+  ]
+}

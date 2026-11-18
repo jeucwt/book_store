@@ -1,0 +1,31 @@
+{
+  "TenSach": "Dòng sông phẳng lặng",
+  "TacGia": "Hoàng Phủ Ngọc Tường",
+  "NamXuatBan": 1986,
+  "TheLoai": "Truyện ngắn",
+  "AnhBia": "",
+  "TomTat": "Những câu chuyện đằm thắm trữ tình và bi tráng gắn liền với dòng sông Hương và con người xứ Huế kiên cường.",
+  "DonGia": 24000,
+  "SoQuyen": 7,
+  "NXB": {
+    "TenNXB": "NXB Hội Nhà Văn",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Sông Hương mùa trăng",
+      "NoiDung": "Sông Hương qua góc nhìn văn chương hiện lên mềm mại như dải lụa đào vắt ngang qua thành phố cổ kính. Những đêm trăng sáng, mặt nước bồng bềnh ánh bạc, tiếng hò mái nhì mái đẩy cất lên ngân vang da diết từ mạn thuyền nan. Trong lòng dòng sông êm đềm ấy không chỉ có thơ ca nhạc họa mà còn ẩn chứa những mạch ngầm lịch sử hào hùng, gắn bó máu thịt với bao thế hệ cư dân cố đô từ thuở mở cõi dựng cờ."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Những người con bám trụ",
+      "NoiDung": "Giữa những năm tháng chiến tranh khốc liệt, dòng sông phẳng lặng bỗng chốc trở thành ranh giới sinh tử. Những cô du kích Huế tuổi đời mới mười tám đôi mươi dũng cảm chèo đò vượt sông dưới làn mưa bom bão đạn đưa bộ đội sang bờ. Tình yêu đôi lứa nảy nở giữa chiến hào, mộc mạc và son sắt như hoa lục bình trôi dạt nhưng không bao giờ lụi tàn trước giông bão thời đại."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Khúc ca hòa bình",
+      "NoiDung": "Hòa bình lập lại trên mảnh đất miền Trung nắng gió, dòng sông lại tìm về vẻ đẹp trầm mặc vốn có của nó. Những cựu chiến binh gặp lại nhau bên bến đò xưa, thả những nhành hoa tưởng niệm đồng đội đã ngã xuống nơi đáy sông sâu. Dòng nước vẫn lững lờ trôi, ôm ấp lấy ký ức và gieo mầm niềm tin vào cuộc sống tương lai thanh bình, rực rỡ."
+    }
+  ]
+}

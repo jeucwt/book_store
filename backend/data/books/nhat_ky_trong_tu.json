@@ -1,0 +1,31 @@
+{
+  "TenSach": "Nhật ký trong tù",
+  "TacGia": "Hồ Chí Minh",
+  "NamXuatBan": 1960,
+  "TheLoai": "Truyện thơ",
+  "AnhBia": "",
+  "TomTat": "Tập nhật ký bằng thơ chữ Hán khắc họa tinh thần thép, tinh thần lạc quan cách mạng trong chốn lao tù Quảng Tây.",
+  "DonGia": 22000,
+  "SoQuyen": 9,
+  "NXB": {
+    "TenNXB": "NXB Văn Học",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Thân thể ở trong lao, tinh thần ở ngoài lao",
+      "NoiDung": "Thân thể ở trong lao, tinh thần ở ngoài lao. Muốn nên sự nghiệp lớn, tinh thần càng phải cao. Những vần thơ chữ Hán giản dị mà súc tích mở đầu cho chuỗi ngày bị giam cầm oan uổng nơi đất khách. Dù bị cùm xích gông cùm hành hạ, người chiến sĩ cách mạng vẫn giữ vững phong thái ung dung tự tại, hướng tâm hồn về bầu trời tự do và tương lai của dân tộc đang chìm trong bóng tối lầm than."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Vọng nguyệt và cảnh ngắm trăng",
+      "NoiDung": "Trong tù không rượu cũng không hoa, cảnh đẹp đêm nay khó hững hờ. Người ngắm trăng soi ngoài cửa sổ, trăng nhòm khe cửa ngắm nhà thơ. Giữa chốn ngục tù hôi hám tăm tối, tình yêu thiên nhiên và cái đẹp vẫn bừng sáng kì diệu. Sự giao hòa giữa thi nhân và vầng trăng tri kỷ đã xóa nhòa ranh giới chấn song sắt ngục tù, thể hiện cốt cách thi sĩ hào hoa cùng bản lĩnh kiên cường của bậc đại trí."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Bình minh sau bóng tối",
+      "NoiDung": "Hết mưa là nắng hửng lên thôi, gội mát trần gian ánh rạng ngời. Vạn vật tươi vui bừng tỉnh giấc, muôn chim ríu rít hót ca vui. Tập thơ khép lại bằng niềm tin tất thắng vào quy luật tự nhiên và lịch sử. Sau những ngày gian lao trui rèn ý chí thép, người tù vượt qua thử thách ngục tù, sẵn sàng đón nhận ánh bình minh của ngày tự do để trở về lãnh đạo cách mạng nước nhà."
+    }
+  ]
+}

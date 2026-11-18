@@ -11,6 +11,8 @@ import goiThueRoutes from './routes/goiThueRoutes.js';
 import thueRoutes from './routes/thueRoutes.js';
 import docRoutes from './routes/docRoutes.js';
 
+import quanTriRoutes from './routes/quanTriRoutes.js';
+
 const app = express();
 connectDB();
 
@@ -18,10 +20,13 @@ app.use(cors());
 app.use(express.json());
 
 app.use('/api/auth', authRoutes);
+
 app.use('/api/sach', sachRoutes);
 app.use('/api/goi-thue', goiThueRoutes);
 app.use('/api/thue', thueRoutes);
 app.use('/api/doc', docRoutes);
+
+app.use('/api/quan-tri', quanTriRoutes);
 
 app.get('/', (req, res) => res.send('API đang chạy'));
 

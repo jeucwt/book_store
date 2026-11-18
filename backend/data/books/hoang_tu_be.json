@@ -1,0 +1,31 @@
+{
+  "TenSach": "Hoàng tử bé",
+  "TacGia": "Antoine de Saint-Exupéry",
+  "NamXuatBan": 1943,
+  "TheLoai": "Tùy bút",
+  "AnhBia": "",
+  "TomTat": "Câu chuyện cổ tích triết lý sâu sắc về tình bạn, tình yêu và cái nhìn trong trẻo của trẻ thơ về thế giới người lớn.",
+  "DonGia": 30000,
+  "SoQuyen": 18,
+  "NXB": {
+    "TenNXB": "NXB Trẻ",
+    "DiaChi": "TP.HCM"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Cuộc gặp gỡ giữa sa mạc Sahara",
+      "NoiDung": "Chiếc máy bay bị hỏng động cơ buộc người phi công phải hạ cánh khẩn cấp giữa sa mạc cát mênh mông không một bóng người. Trong lúc đang cặm cụi sửa chữa từng con ốc vít, ông ngỡ ngàng nghe thấy một giọng nói trong trẻo: Xin chú hãy vẽ cho cháu một con cừu! Đó là cuộc gặp gỡ đầu tiên với Hoàng tử bé – cậu bé đến từ tiểu tinh cầu B612 xa xôi chỉ có ba ngọn núi lửa và một bông hoa hồng kiêu kỳ."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Những tiểu tinh cầu kỳ lạ",
+      "NoiDung": "Hoàng tử bé kể cho người phi công nghe về hành trình chu du qua các hành tinh khác nhau trong vũ trụ. Cậu đã gặp một ông vua mê quyền lực nhưng cô độc, một kẻ hợm hĩnh chỉ thích nghe tán dương, một gã nát rượu uống để quên nỗi xấu hổ vì uống rượu, và một thương nhân bận rộn đếm các vì sao để sở hữu chúng. Thế giới người lớn hiện lên thật kỳ quặc, vô lý và đánh mất đi niềm vui nguyên sơ của cuộc sống."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Bí mật của chú cáo",
+      "NoiDung": "Khi đặt chân đến Trái Đất, Hoàng tử bé gặp gỡ chú cáo thông thái. Cáo đã dạy cho cậu bài học quý giá về sự thuần hóa và trách nhiệm đối với bông hoa hồng duy nhất của mình. Trước khi chia tay, cáo tặng cậu một bí mật giản dị: Người ta chỉ nhìn thấy thật rõ ràng bằng trái tim; điều cốt lõi thì vô hình trong mắt trần. Cậu hiểu rằng chính thời gian cậu dành cho đóa hồng mới khiến bông hoa trở nên quan trọng đến thế."
+    }
+  ]
+}

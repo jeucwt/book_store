@@ -1,0 +1,31 @@
+{
+  "TenSach": "Hai vạn dặm dưới biển",
+  "TacGia": "Jules Verne",
+  "NamXuatBan": 1870,
+  "TheLoai": "Khoa học viễn tưởng",
+  "AnhBia": "",
+  "TomTat": "Chuyến thám hiểm đáy đại dương kỳ vĩ cùng con tàu ngầm Nautilus tân tiến và thuyền trưởng Nemo bí ẩn.",
+  "DonGia": 38000,
+  "SoQuyen": 10,
+  "NXB": {
+    "TenNXB": "NXB Kim Đồng",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Quái vật biển hay phát minh kỳ tài",
+      "NoiDung": "Năm 1866, các vùng biển trên khắp thế giới xôn xao trước sự xuất hiện của một sinh vật bí ẩn khổng lồ di chuyển với tốc độ kinh hoàng, đâm thủng nhiều tàu buôn lớn. Giáo sư Aronnax cùng người giúp việc Conseil và thợ săn cá voi Ned Land tham gia đoàn tàu chiến truy lùng con quái vật. Sau cú va chạm định mệnh, họ rơi xuống biển và bất ngờ phát hiện con quái vật thực chất là một cỗ tàu ngầm khổng lồ bằng thép mang tên Nautilus do thuyền trưởng Nemo chỉ huy."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Thế giới kỳ quan dưới đáy biển sâu",
+      "NoiDung": "Thuyền trưởng Nemo đón tiếp họ với tư cách tù nhân danh dự trên con tàu chạy bằng điện năng tối tân vượt xa thời đại. Qua ô cửa kính trong suốt của phòng khách, Aronnax được chiêm ngưỡng những cánh rừng san hô rực rỡ, những mỏ ngọc trai khổng lồ ở vịnh Bengal và tàn tích của thành phố Atlantis cổ đại chìm sâu dưới đáy đại dương ngàn năm."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Trận chiến mực khổng lồ và lối thoát hiểm nguy",
+      "NoiDung": "Trên đường tiến về phương Bắc, tàu Nautilus bị kẹt giữa bầy mực ống khổng lồ với những chiếc vòi dài ngoằng quấn chặt chân vịt. Nemo cùng thủy thủ đoàn trang bị rìu và súng hơi lao vào trận giáp lá cà sinh tử trên boong tàu để giải cứu đồng đội. Nhân lúc con tàu lọt vào xoáy nước Maelstrom dữ dội gần bờ biển Na Uy, giáo sư Aronnax và các bạn liều mình hạ xuồng trốn thoát, mang theo câu chuyện kỳ diệu về vị thuyền trưởng kỳ tài Nemo."
+    }
+  ]
+}

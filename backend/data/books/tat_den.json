@@ -1,0 +1,31 @@
+{
+  "TenSach": "Tắt đèn",
+  "TacGia": "Ngô Tất Tố",
+  "NamXuatBan": 1939,
+  "TheLoai": "Tiểu thuyết",
+  "AnhBia": "",
+  "TomTat": "Bức tranh hiện thực nghiệt ngã về nỗi thống khổ của người nông dân trước sưu cao thuế nặng và sự vùng lên của chị Dậu.",
+  "DonGia": 28000,
+  "SoQuyen": 10,
+  "NXB": {
+    "TenNXB": "NXB Văn Học",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Tiếng trống thúc sưu",
+      "NoiDung": "Không khí làng Đông Xá những ngày thu sưu thuế ngột ngạt và căng thẳng như lò than sắp nổ. Tiếng trống thúc liên hồi điểm từ đình làng vọng ra khắp ngõ ngách thôn xóm, dồn dập đe dọa từng mái tranh rách nát. Anh Dậu vì ốm liệt giường mà không đủ tiền nộp sưu, bị bọn cai lệ trói nghiến mang ra đình đánh đập dã man. Chị Dậu chạy vạy khắp làng không ai cho vay, trong nhà chỉ còn mấy củ khoai còi và đàn chó con mới đẻ. Nỗi tuyệt vọng bủa vây người phụ nữ nghèo khổ."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Bán con và nỗi đau tột cùng",
+      "NoiDung": "Để có tiền nộp nốt phần sưu của người em chồng đã chết, chị Dậu cắn răng dắt cái Tí – đứa con đầu lòng ngoan ngoãn và ổ chó đem bán cho nhà quan cụ Nghị Quế ở thôn Đoài. Nghị Quế keo kiệt, hách dịch ép giá từng đồng từng hào. Cái Tí khóc lóc van xin mẹ đừng bỏ rơi nó, tiếng khóc xé lòng xé ruột khiến chị Dậu tưởng như đứt từng khúc ruột. Cầm mấy đồng bạc cắc đẫm nước mắt trở về làng, chị đau đớn nhận ra sưu cao thuế nặng vẫn chực chờ bóp nghẹt mạng sống gia đình nhỏ."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Vùng lên quật ngã cai lệ",
+      "NoiDung": "Anh Dậu vừa được tha về nằm thở thoi thóp trên chõng tre, chị Dậu vừa bưng bát cháo hoa nguội cho chồng thì cai lệ và người nhà lí trưởng lại xông vào đòi tiền. Tên cai lệ giơ roi tính trói anh Dậu một lần nữa. Ban đầu chị Dậu nhẫn nhịn van lạy tha thiết, nhưng đáp lại chỉ là những cái bạt tai và lời thóa mạ tàn độc. Uất ức dồn nén bùng phát, chị Dậu nghiến răng vùng lên túm cổ áo tên cai lệ, ấn ngã chúi ra thềm rồi quật ngã luôn tên người nhà lí trưởng. Chị vùng chạy ra ngoài màn đêm mịt mù như chính số phận của chị."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "TenSach": "Kiêu hãnh và định kiến",
+  "TacGia": "Jane Austen",
+  "NamXuatBan": 1813,
+  "TheLoai": "Lãng mạn",
+  "AnhBia": "",
+  "TomTat": "Câu chuyện tình yêu đầy trắc trở nhưng sâu sắc giữa Elizabeth Bennet thông minh và quý ngài Darcy cao ngạo.",
+  "DonGia": 36000,
+  "SoQuyen": 15,
+  "NXB": {
+    "TenNXB": "NXB Văn Học",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Buổi dạ vũ ở Meryton",
+      "NoiDung": "Tin tức một chàng trai quý tộc trẻ tuổi, giàu có tên Bingley thuê trang viên Netherfield đã làm xôn xao cả vùng quê nông thôn nước Anh, đặc biệt là gia đình quý bà Bennet có năm cô con gái chưa gả. Tại buổi dạ vũ địa phương, trong khi Bingley thân thiện chiếm trọn cảm tình thì bạn thân của anh – quý ngài Darcy lạnh lùng kiêu ngạo từ chối khiêu vũ với Elizabeth Bennet. Một bức tường định kiến bắt đầu hình thành giữa hai tâm hồn kiêu hãnh."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Lời cầu hôn đường đột tại Rosings",
+      "NoiDung": "Elizabeth vô cùng tức giận khi phát hiện Darcy chính là người đã can thiệp chia cắt mối tình giữa chị gái Jane và Bingley. Đúng lúc ấy, Darcy lại bất ngờ thổ lộ tình yêu cháy bỏng và cầu hôn nàng, nhưng đi kèm những lời lẽ miệt thị gia thế thấp kém của nhà Bennet. Nàng Elizabeth kiên quyết cự tuyệt thẳng thừng. Bức thư giải thích sau đó của Darcy đã khiến Elizabeth bàng hoàng nhận ra mình đã mù quáng vì định kiến cá nhân bấy lâu."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Hạnh phúc viên mãn ở Pemberley",
+      "NoiDung": "Khi gia đình Bennet đối mặt với nguy cơ sụp đổ danh dự vì cô em út Lydia dại dột bỏ trốn cùng tên sĩ quan lừa đảo Wickham, chính Darcy đã âm thầm bỏ tiền bạc và công sức dàn xếp đám cưới êm thấm. Hiểu rõ lòng tốt và phẩm cách cao thượng của Darcy, Elizabeth trút bỏ hoàn toàn định kiến, hạnh phúc nhận lời cầu hôn lần thứ hai của chàng, mở ra cuộc sống lứa đôi trọn vẹn tại trang viên Pemberley xinh đẹp."
+    }
+  ]
+}

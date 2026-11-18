@@ -1,0 +1,31 @@
+{
+  "TenSach": "Dế Mèn phiêu lưu ký",
+  "TacGia": "Tô Hoài",
+  "NamXuatBan": 1941,
+  "TheLoai": "Phiêu lưu",
+  "AnhBia": "",
+  "TomTat": "Hành trình trưởng thành đầy ý nghĩa, bài học đường đời đầu tiên và khát vọng kết nghĩa anh em bốn bể của Dế Mèn.",
+  "DonGia": 30000,
+  "SoQuyen": 20,
+  "NXB": {
+    "TenNXB": "NXB Kim Đồng",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Bài học đường đời đầu tiên",
+      "NoiDung": "Tôi là một chú dế mèn cường tráng, đôi càng mẫm bóng, vuốt ở chân cứng và nhọn hoắt. Do tự phụ và kiêu căng, tôi thường cà khịa với mọi bà con láng giềng. Trong một lần nghịch ngợm dại dột, tôi trêu chị Cốc khiến chị tức giận mổ chết chú Dế Choắt gầy gò ốm yếu hàng xóm. Trước khi trút hơi thở cuối cùng, Dế Choắt khuyên tôi: Ở đời mà có thói hung hăng bậy bạ, có óc mà không biết nghĩ, sớm muộn rồi cũng rước họa vào thân. Đó là bài học đắt giá đầu tiên ghi khắc suốt đời tôi."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Kết nghĩa anh em cùng Dế Trũi",
+      "NoiDung": "Rời bỏ quê hương, tôi dấn thân vào cuộc phiêu lưu khắp chốn bãi cỏ bờ sông. Trên đường đi, tôi gặp Dế Trũi gan dạ đang bị bọn Bọ Muỗm bắt nạt. Tôi liền ra tay nghĩa hiệp cứu thoát Trũi. Hai đứa cảm mến tài đức của nhau, cùng uống giọt sương mai thề nguyện kết nghĩa anh em đồng cam cộng khổ. Chúng tôi dắt tay nhau vượt qua thác ghềnh, khám phá thế giới tự nhiên kỳ thú và rộng lớn bao la."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Ước mơ thế giới đại đồng",
+      "NoiDung": "Trải qua muôn vàn gian nan, hiểm nguy từ bẫy chim, hang sâu đến những trận chiến kịch liệt, tôi và Trũi hiểu sâu sắc giá trị của tình đoàn kết. Chúng tôi đi khắp nơi tuyên truyền ước nguyện muôn loài kết nghĩa anh em, xóa bỏ hiềm khích hận thù, cùng nhau chung sống trong hòa bình và bác ái. Tiếng reo hò của muôn loài côn trùng vang dậy đồng cỏ chào đón mùa gặt mới."
+    }
+  ]
+}

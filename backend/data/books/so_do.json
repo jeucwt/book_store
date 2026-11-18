@@ -1,0 +1,31 @@
+{
+  "TenSach": "Số đỏ",
+  "TacGia": "Vũ Trọng Phụng",
+  "NamXuatBan": 1936,
+  "TheLoai": "Tiểu thuyết",
+  "AnhBia": "",
+  "TomTat": "Tác phẩm trào phúng đỉnh cao vạch trần xã hội thượng lưu thành thị rởm đời qua bước nhảy vọt của Xuân Tóc Đỏ.",
+  "DonGia": 32000,
+  "SoQuyen": 15,
+  "NXB": {
+    "TenNXB": "NXB Văn Học",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Khởi đầu từ chân nhặt bóng",
+      "NoiDung": "Xuân Tóc Đỏ vốn là một kẻ hạ lưu mồ côi, kiếm sống bằng nghề nhặt bóng quần vợt trên sân bà Phó Đoan. Nhờ một trò lừa bịp vô tình và tính lém lỉnh, hắn được bà Phó Đoan giới thiệu vào làm chân chạy việc cho tiệm may Âu Hóa của vợ chồng Văn Minh. Nơi đây đang phát động phong trào đổi mới y phục, giải phóng phụ nữ kiểu nửa mùa, sính ngoại kệch cỡm. Bằng miệng lưỡi trơn tru học lỏm được vài câu văn minh phương Tây, Xuân nhanh chóng lọt vào mắt xanh của các quý bà quyền quý."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Đốc tờ Xuân và thi sĩ vĩ đại",
+      "NoiDung": "Từ một kẻ mù chữ lượm banh, Xuân được đám trí thức rởm nâng lên hàng đốc tờ y khoa, chuyên gia tâm lý và thi sĩ canh tân. Hắn tham gia cổ vũ cho các mốt ngây thơ, nửa chính chuyên, hở hang của tiệm may Âu Hóa. Cả gia đình cụ cố Hồng mê mẩn hắn vì thấy hắn nói câu nào cũng có vẻ khoa học tân thời. Xuân biến những chuyện lố bịch thành trào lưu thời thượng, kiếm bộn tiền và được giới thượng lưu Hà thành tung hô như vị cứu tinh của nền văn minh hiện đại."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Đỉnh cao danh vọng và anh hùng cứu quốc",
+      "NoiDung": "Bi kịch hài hước lên đến đỉnh điểm trong trận đấu quần vợt giao hữu quốc tế giữa Việt Nam và Xiêm La. Nhờ mưu đồ dàn xếp của chính phủ thuộc địa để tránh chiến tranh, Xuân được lệnh phải nhường chức vô địch cho vua Xiêm. Sau khi nhường nhịn trên sân, Xuân đứng lên hùng hồn diễn thuyết bằng giọng điệu ái quốc bịp bợm. Đám đông cuồng nhiệt tung hô Xuân là bậc vĩ nhân, anh hùng cứu quốc. Kẻ lưu manh chính thức bước lên đài danh vọng tối cao của một xã hội đồi bại."
+    }
+  ]
+}

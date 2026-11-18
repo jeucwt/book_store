@@ -1,0 +1,31 @@
+{
+  "TenSach": "Ba chàng lính ngự lâm",
+  "TacGia": "Alexandre Dumas",
+  "NamXuatBan": 1844,
+  "TheLoai": "Phiêu lưu",
+  "AnhBia": "",
+  "TomTat": "Khẩu hiệu kinh điển Một người vì mọi người, mọi người vì một người trong hành trình bảo vệ danh dự hoàng gia của DArtagnan.",
+  "DonGia": 45000,
+  "SoQuyen": 12,
+  "NXB": {
+    "TenNXB": "NXB Hội Nhà Văn",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Đấu kiếm và kết tình huynh đệ",
+      "NoiDung": "Chàng trai trẻ nghèo dArtagnan rời quê hương xứ Gascony lên Paris hoa lệ với ước mơ gia nhập đội ngự lâm quân của Vua Louis XIII. Do tính khí nóng nảy, chàng liên tiếp thách đấu kiếm với ba chàng lính ngự lâm tài ba: Athos, Porthos và Aramis chỉ trong một buổi trưa. Đúng lúc trận quyết đấu sắp diễn ra, lính cận vệ của Hồng y giáo chủ Richelieu ập đến vây bắt. Bốn chàng trai hiệp lực rút gươm đánh tan đám cận vệ, bắt đầu tình bạn keo sơn gắn bó."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Chuyến công du đoạt chuỗi kim cương",
+      "NoiDung": "Để cứu Hoàng hậu Anne khỏi cái bẫy chính trị tàn độc của Hồng y giáo chủ Richelieu tại vũ hội hoàng gia, dArtagnan và ba người bạn nhận nhiệm vụ bí mật vượt biển sang Anh để lấy lại chuỗi hạt kim cương từ Công tước Buckingham. Trên đường đi, họ bị thích khách của phe Giáo chủ phục kích liên miên. Lần lượt Athos, Porthos và Aramis ở lại cản đường đối phương để dArtagnan phi ngựa xé gió tới Luân Đôn hoàn thành sứ mệnh lịch sử."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Vạch mặt nữ gián điệp Milady",
+      "NoiDung": "Nữ bá tước Milady de Winter – gián điệp nguy hiểm nhất của Hồng y giáo chủ dùng mọi thủ đoạn độc ác, từ đầu độc đến bắt cóc nhằm trả thù dArtagnan. Bốn chàng ngự lâm kiên quyết truy lùng dấu vết mụ đàn bà hiểm độc đến tận bờ sông Lys. Trước tòa án công lý của lương tri, tội ác của Milady bị phơi bày trừng trị thích đáng, đem lại sự bình yên và vinh quang rực rỡ cho đội ngự lâm quân nước Pháp."
+    }
+  ]
+}

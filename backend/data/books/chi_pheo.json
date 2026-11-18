@@ -1,0 +1,31 @@
+{
+  "TenSach": "Chí Phèo",
+  "TacGia": "Nam Cao",
+  "NamXuatBan": 1941,
+  "TheLoai": "Truyện ngắn",
+  "AnhBia": "",
+  "TomTat": "Tấn bi kịch tha hóa và khát vọng hoàn lương không thành của người nông dân cùng quẫn làng Vũ Đại.",
+  "DonGia": 26000,
+  "SoQuyen": 8,
+  "NXB": {
+    "TenNXB": "NXB Hội Nhà Văn",
+    "DiaChi": "Hà Nội"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Tiếng chửi của Chí Phèo",
+      "NoiDung": "Hắn vừa đi vừa chửi. Bao giờ cũng thế, cứ rượu xong là hắn chửi. Bắt đầu chửi trời, có hề gì? Trời có của riêng nhà nào? Rồi hắn chửi đời, đời là tất cả nhưng chẳng là ai. Rồi hắn chửi cả làng Vũ Đại, nhưng làng ai cũng nghĩ: chắc nó trừ mình ra! Tức mình hắn chửi đứa chết mẹ nào đẻ ra thân hắn cho hắn khổ thế này. Nhưng hắn đâu biết ai đẻ ra hắn. Hắn chỉ là đứa trẻ bị bỏ rơi ở cái lò gạch cũ, lớn lên đi làm canh điền hiền lành như đất cho nhà Bá Kiến, rồi bị đẩy vào tù ngục oan ức để rồi trở về thành một con quỷ dữ của làng Vũ Đại."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Cuộc gặp gỡ và bát cháo hành Thị Nở",
+      "NoiDung": "Đêm trăng ở vườn chuối ven sông, Chí Phèo gặp Thị Nở – người đàn bà xấu xí, ngơ ngẩn và nghèo khổ nhất làng. Trận sốt mê man đã khiến Chí ngã gục. Sáng hôm sau, Thị Nở mang sang cho hắn một bát cháo hành nóng hổi còn bốc khói nghi ngút. Lần đầu tiên trong đời, Chí được một người đàn bà chăm sóc mà không phải bằng đòn roi hay sự sợ hãi. Hắn nếm bát cháo, thấy mắt ươn ướt, lòng rạo rực những khát khao bình dị thời trai trẻ: một gia đình nhỏ, chồng cuốc mướn cày thuê, vợ dệt vải. Chí thèm lương thiện, hắn muốn làm hòa với mọi người."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Bước đường cùng và tiếng kêu lương thiện",
+      "NoiDung": "Bà cô Thị Nở kiên quyết cấm cháu qua lại với một thằng rạch mặt ăn vạ. Thị Nở ngoúng ngoảy bỏ đi, cánh cửa trở lại làm người của Chí Phèo bị đóng sập vĩnh viễn. Chí lại uống rượu, nhưng càng uống càng tỉnh, càng ngửi thấy hơi cháo hành thoang thoảng đâu đây. Ôm con dao sắc, Chí lảo đảo tìm đến nhà Bá Kiến. Trước vẻ kinh ngạc và hoảng loạn của lão cáo già, Chí gào lên đau đớn: Ai cho tao lương thiện? Làm sao cho mất được những vết mảnh chai trên mặt này? Chí đâm chết Bá Kiến rồi tự kết liễu đời mình trong vũng máu, kết thúc tấn bi kịch kiếp người."
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "TenSach": "Ông già và biển cả",
+  "TacGia": "Ernest Hemingway",
+  "NamXuatBan": 1952,
+  "TheLoai": "Tiểu thuyết",
+  "AnhBia": "",
+  "TomTat": "Khúc tráng ca bất diệt về ý chí kiên cường của lão ngư Santiago trong cuộc chiến đơn độc với cá kiếm và đàn cá mập.",
+  "DonGia": 35000,
+  "SoQuyen": 6,
+  "NXB": {
+    "TenNXB": "NXB Trẻ",
+    "DiaChi": "TP.HCM"
+  },
+  "chuong": [
+    {
+      "SoChuong": 1,
+      "TieuDe": "Chương 1 – Tám mươi tư ngày trắng tay",
+      "NoiDung": "Lão già Santiago một mình chèo thuyền trên dòng hải lưu vịnh Mexico suốt tám mươi tư ngày liên tục mà không bắt được lấy một mống cá nào. Cậu bé Manolin thương lão nhưng bị cha mẹ bắt chuyển sang thuyền khác may mắn hơn. Lão già vẫn kiên trì chuẩn bị mồi câu sắc nhọn, tin tưởng tuyệt đối vào vận may của ngày thứ tám mươi lăm. Lão căng buồm ra khơi từ sáng sớm khi trăng còn chưa lặn, hướng thẳng ra vùng biển xa thẳm."
+    },
+    {
+      "SoChuong": 2,
+      "TieuDe": "Chương 2 – Cuộc giằng co với con cá kiếm khổng lồ",
+      "NoiDung": "Vào giữa trưa ngày thứ tám mươi lăm, sợi dây cước sâu thăm thẳm bỗng giật mạnh. Một con cá kiếm khổng lồ cắn câu. Con cá quá lớn kéo phăng chiếc thuyền con rẽ sóng chạy mải miết ra biển khơi suốt hai ngày hai đêm. Bàn tay lão rách toạc rỉ máu, lưng tê dại vì ghì dây câu, nhưng lão không hề bỏ cuộc. Lão trò chuyện với con cá, vừa tôn trọng vừa quyết tâm hạ gục đối thủ xứng tầm bằng ngọn lao sắc bén găm trúng tim."
+    },
+    {
+      "SoChuong": 3,
+      "TieuDe": "Chương 3 – Đàn cá mập và tinh thần bất khuất",
+      "NoiDung": "Mùi máu tanh loang trên mặt nước thu hút từng đàn cá mập hung dữ lao đến cắn xé xác cá kiếm. Santiago dùng dao buộc vào mái chèo, rồi dùng chày gỗ tả xung hữu đột chiến đấu kiên cường đến kiệt sức. Dù con cá chỉ còn lại bộ xương trắng khi thuyền cập bến, lão già đã chứng minh chân lý vĩ đại: Con người sinh ra không phải để dành cho thất bại. Con người có thể bị hủy diệt nhưng không thể bị đánh bại."
+    }
+  ]
+}
