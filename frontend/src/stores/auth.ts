@@ -12,9 +12,10 @@ export const useAuthStore = defineStore('auth', () => {
 
   const isLoggedIn = computed(() => !!token.value && !!user.value)
   const isDocGia = computed(() => isLoggedIn.value && role.value === 'docgia')
-  const isNhanVien = computed(
+  const isNhanVien = computed( 
     () => isLoggedIn.value && (role.value === 'nhanvien' || role.value === 'admin'),
   )
+  const isAdmin = computed(() => isLoggedIn.value && role.value === 'admin')
   const tenHienThi = computed(() => {
     const u = user.value
     if (!u) return ''
@@ -80,7 +81,7 @@ export const useAuthStore = defineStore('auth', () => {
   }
 
   return {
-    token, user, role, isLoggedIn, isDocGia, isNhanVien, tenHienThi, nhanVaiTro,
+    token, user, role, isLoggedIn, isDocGia, isNhanVien, isAdmin, tenHienThi, nhanVaiTro,
     khoiPhuc, dangNhap, dangNhapNhanVien, dangKy, dangXuat, xoaPhien,
   }
 })
